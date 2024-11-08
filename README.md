@@ -1,4 +1,4 @@
-# Pera Patrol 💸🧾
+# **Pera Patrol** 💸🧾
 
 # I. Project Overview
 
@@ -8,7 +8,7 @@ This tracker enables users to keep track of their weekly spending, increasing aw
 
 # III. Integration of the Sustainable Development Goal (SDG)
 
-Pera Patrol aligns with SDG 12: Responsible Consumption and Production and SDG 1: No Poverty by promoting financial awareness and sustainable spending. Pera Patrol makes users aware of their spending habits which encourages smart spending and reduces impulsive purchases. Furthermore, it also helps users to effectively manage their money and save, thus promoting financial stability and reducing the risk of poverty.
+**Pera Patrol** aligns with **SDG 12**: Responsible Consumption and Production and **SDG 1**: No Poverty by promoting financial awareness and sustainable spending. Pera Patrol makes users aware of their spending habits which encourages smart spending and reduces impulsive purchases. Furthermore, it also helps users to effectively manage their money and save, thus promoting financial stability and reducing the risk of poverty.
 
 # IV. Instructions for running the program
 
